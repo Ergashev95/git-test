@@ -1,2 +1,2 @@
 # git-test  
-##  Gitni o'rganishda yullagan loyihamiz
+##  Gitni o'rganishda yuklagan loyihamiz!
